@@ -53,13 +53,14 @@ This makes it easy to detect:
 Copy the script to the switch:
 
 ```bash
-/flash/working/mac_tracker.py
+/flash/mac_tracker.py
 ```
 
 Make the script executable:
 
 ```bash
-chmod +x /flash/working/mac_tracker.py
+
+python3 mac_tracker.py
 ```
 
 
